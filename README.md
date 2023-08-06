@@ -1,5 +1,7 @@
 ### Welcome to my GitHub Profile! 👋
 [![Profile views count](https://komarev.com/ghpvc/?username=arnab-afk)](https://github.com/arnab-afk)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Arnab;I'm+a+student;I'm+a+developer)](https://github.com/arnab-afk/)
 <!--
 **Arnab-Afk/Arnab-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
