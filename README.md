@@ -15,13 +15,17 @@ I'm a versatile front end developer with hands-on experience in various technolo
  
 ## 🧑‍💻 Skills
 
-- **Languages**: C and C++ , JavaScript, TypeScript, Python
-- **Frontend**: React.js, Next.js, HTML, CSS
+- **Languages**: C and C++ , JavaScript, TypeScript, Python ![My Skills](https://skillicons.dev/icons?i=java,python,bash,git,github,gitlab,figma,html,css,scss,bootstrap,javascript)
+- **Frontend**: ![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript)
 - **Backend**: Node.js, Express.js, Python Flask
 - **Databases**: MongoDB, MySQL
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
+- **Cyber security**: Linux operations, Networking
 - **Version Control**: Git
-- **Tools**: VS Code
+- **Tools**: VS Code, IntelliJ, Kali Linux
+
+[![Arnab Bhowmik's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnab-afk&theme=dark&layout=compact&langs_count=10&title_color=blue)](https://github.com/arnab-afk/)
+
+  
 <!--
 **Arnab-Afk/Arnab-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
