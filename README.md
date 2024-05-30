@@ -15,9 +15,9 @@ I'm a versatile front end developer with hands-on experience in various technolo
  
 ## 🧑‍💻 Skills
 
-- **Languages**: C and C++ , JavaScript, TypeScript, Python ![My Skills](https://skillicons.dev/icons?i=java,python,bash,git,github,gitlab,figma,html,css,scss,bootstrap,javascript)
-- **Frontend**: ![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript)
-- **Backend**: Node.js, Express.js, Python Flask
+- **Languages**: Java , C , Embedded C , JavaScript, TypeScript, Python, Solidity ![My Skills](https://skillicons.dev/icons?i=java,python,bash,git,github,gitlab,figma,javascript,solidity,c,typescript,postman,autocad,aws,googlecloud)
+- **Frontend**: ![Skills](https://skillicons.dev/icons?i=react,next,angular,vite,tailwind,html,css,scss,bootstrap)
+- **Backend**:![Skills](https://skillicons.dev/icons?i=express,nodejs,django,firebase,mongodb,supabase,flask,python,fastapi,bun)
 - **Databases**: MongoDB, MySQL
 - **Cyber security**: Linux operations, Networking
 - **Version Control**: Git
