@@ -83,7 +83,10 @@ I'm a versatile front end developer with hands-on experience in various technolo
 <br/>  
 
 [![Arnab Bhowmik's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnab-afk&theme=dark&layout=compact&langs_count=10&title_color=blue)](https://github.com/arnab-afk/)
-
+<div align=center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnab-Afk&" alt="Arnab-Afk" /></p>
+<img src="https://myreadme.vercel.app/api/embed/arnab-afk?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
+</div>
 
 ## Connect with me 
 <p>
